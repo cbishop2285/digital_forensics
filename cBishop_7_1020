@@ -1,0 +1,7 @@
+A disk image is a file that contains information like a data storage device.
+
+To make a disk image, you do mkfs.ext4 filename.img to make the ext4 file 
+system.
+
+A partition refers to a portion of the disk, divided to hold information
+seperately from the rest of the disk.
