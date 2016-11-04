@@ -1,0 +1,9 @@
+1)The bandwidth of wifi is 40 MHz.
+2)The channels 1-11 are available.
+3)People commonly use 1, 6, or 11 because they overlap the least.
+4)Wired Equivelent Privacy(WEP),Wifi Protected Access(WPA),Wired Protected Access 2(WPA2).
+The difference is the amount of security each one provides.
+5)WPA2 is the most secure and WEP is the least.
+6)AirSnort is a program to decrypt WEP encryption keys.
+7)Kismet is an intrusion detection system.
+8)Karma is is a portable box of wifi.
