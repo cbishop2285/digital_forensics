@@ -1,5 +1,4 @@
-1) It lists the file and directory names of a disk image.
-2)It gives you the disk partitions and their details like description and slot. Ewf is one of the disk partitions.
-3)
+1) It shows a partition table and gives detailed information about each.
+2) It gives you an error beacuse it doesn't give a path to the file.
 4)A body file is the activity history.
 5)It puts the 
