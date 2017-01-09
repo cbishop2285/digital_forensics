@@ -1,0 +1,24 @@
+1:TCP - what is it? when is it used?
+It determines how to break up application data into packets that is easy to deliver,
+and manages flow control. It can also be used for communications in a private network.
+
+2:UDP - what is it? how is it different than TCP?
+It is an alternative communications protocol to TCp. UDP just sends the packets, 
+meaning it has a lower bandwidth than TCP.
+
+3:Three way handshake - [look up 'TCP joke']
+It is a method that is used when creating a connection between a local host and a server.
+The client and the network have to exchange SYN and ACK packets.
+
+4:TCPdump - how might tcpdump be used by cyber-criminals? by cyber-investigators?
+
+
+5:ettercap - what it is good for?
+
+6:wireshark - how is it used?
+
+7:nessus - how did Trinity use Nessus in the Matrix?
+
+8:DNS - how is DNS compromised and used by criminals? BE SPECIFIC
+
+9:arp - what is arp? what is arp cache poisoning?
