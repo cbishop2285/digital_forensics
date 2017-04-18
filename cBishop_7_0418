@@ -1,0 +1,26 @@
+What does the command fdisk do?
+fdisk allows a root user manipulate or change the partition table.
+
+Why can a regular user not use fdisk?
+Only certain users can use fdisk because if you don't know how to properly 
+use fdisk, you can destroy your computer.
+
+How are the disks labeled in Linux?
+Disks in Linux are labeled by how many disks are currently connected to the computer.
+
+How are disks labeled in Windows?
+Disks are labeled in relation to location on the computer.
+
+How are disks labeled in Mac?
+Disks are labeled in the menu for seperate disks.
+
+What is an inode?
+An inode is a data structure that describes a filesystem.
+
+What is the difference between dd and copy?
+dd allows you to change the filetype or select the file type, while cp
+allows you only to make a copy of the same filetype.
+
+What is slack space?
+It is a form of internal fragmentation, and is basically wasted space, not really
+necessary.
